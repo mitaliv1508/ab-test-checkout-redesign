@@ -1,4 +1,4 @@
-# A/B Testing: One-Page Checkout Redesign
+# A/B Testing: One-Page Checkout Redesign Test
 
 **Verdict: Ship it.** The new one-page checkout lifted purchase conversion by **+0.59 pp (+8.3% relative, p = 4.8e-04)** with no damage to order value or refund rates — worth an estimated **~$1.2M/year** in incremental revenue at 2.5M annual checkout visitors.
 
